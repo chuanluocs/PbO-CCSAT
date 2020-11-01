@@ -47,6 +47,3 @@ ${CLEAN}:
 
 ${CLEANUP}: ${CLEAN}
 	rm -f ${TARGET}
-
-
-

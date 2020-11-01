@@ -1,6 +1,5 @@
 COMPILER = g++
 CFLAGS = -O3 -static
-#CFLAGS = -O3
 PRE_CFLAGS = ${CFLAGS} -c
 TARGET = PbO-CCSAT
 
@@ -99,6 +98,3 @@ ${CLEAN}:
 
 ${CLEANUP}: ${CLEAN}
 	rm -f ${TARGET}
-
-
-
