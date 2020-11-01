@@ -6,12 +6,13 @@ PbO-CCSAT is a highly configurable stochastic local search solver for solving pr
 - Chuan Luo (<chuan.luo@microsoft.com>)
 
 ## Reference
-- Chuan Luo, Holger H. Hoos, Shaowei Cai. PbO-CCSAT: Boosting Local Search for Satisfiability using Programming by Optimisation. In Proceedings of PPSN 2020, 2020.
+- Chuan Luo, Holger H. Hoos, Shaowei Cai. PbO-CCSAT: Boosting Local Search for Satisfiability using Programming by Optimisation. In Proceedings of PPSN 2020: 373-389, 2020.
 
 
-## Implementation of PbO-CCSAT
+## Implementations of PbO-CCSAT
 
-- Please refer to the directory `PbO-CCSAT_source_code/`.
+- For the implementation of the process-oriented version of PbO-CCSAT (which is the version evaluated in the PPSN-2020 paper), please refer to the directory `PbO-CCSAT_process_oriented_version_source_code/`.
+- For the implementation of the object-oriented version of PbO-CCSAT, please refer to the directory `PbO-CCSAT_object_oriented_version_source_code`.
 
 ## Full Confiuration Space, Default Configuration and Optimised Configurations (for all testing benchmarks) of PbO-CCSAT
 
