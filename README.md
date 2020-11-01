@@ -2,12 +2,11 @@
 
 PbO-CCSAT is a highly configurable stochastic local search solver for solving propositional satisfiability (SAT). We would like to note that PbO-CCSAT should be run on a operating system of `GNU/Linux (64-bit)`.
 
-## Author and Implementer
+## Developer
 - Chuan Luo (<chuan.luo@microsoft.com>)
 
 ## Reference
 - Chuan Luo, Holger H. Hoos, Shaowei Cai. PbO-CCSAT: Boosting Local Search for Satisfiability using Programming by Optimisation. In Proceedings of PPSN 2020: 373-389, 2020.
-
 
 ## Implementations of PbO-CCSAT
 

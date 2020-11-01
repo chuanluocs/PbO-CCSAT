@@ -2,11 +2,11 @@
 
 PbO-CCSAT stands for *P*rogramming *b*y *O*ptimisation with *C*onfiguration *C*hecking in local search for *SAT*isfiability.
 
-## Author and Implementer
+## Developer
 - Chuan Luo (<chuan.luo@microsoft.com>)
 
 ## Reference
-- Chuan Luo, Holger H. Hoos, Shaowei Cai. PbO-CCSAT: Boosting Local Search for Satisfiability using Programming by Optimisation. In Proceedings of PPSN 2020, 2020.
+- Chuan Luo, Holger H. Hoos, Shaowei Cai. PbO-CCSAT: Boosting Local Search for Satisfiability using Programming by Optimisation. In Proceedings of PPSN 2020: 373-389, 2020.
 
 ## Basic Information
 
