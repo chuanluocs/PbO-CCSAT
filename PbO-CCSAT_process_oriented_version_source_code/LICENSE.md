@@ -2,7 +2,7 @@
 
 Version 3, 29 June 2007
 
-Copyright (C) 2020-2021 Chuan Luo.
+Copyright (C) 2020 - present Chuan Luo.
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
